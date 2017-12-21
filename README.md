@@ -11,7 +11,16 @@ The databases will be devivded into:
 
 ## Bioinformatics
 
-### Ensembl
+### Genetics
 
 [Ensembl.org](http://www.ensembl.org)
+
+
+### Proteins
+
+## Chemoinformatics
+
+
+## Pharmacuticals
+
 
