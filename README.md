@@ -7,7 +7,7 @@ The databases will be devivded into:
 * Bioinformatics
 * Chemoinformatics
 * Pharmacuticals
-
+* Meta/interactions network database
 
 ## Bioinformatics
 
